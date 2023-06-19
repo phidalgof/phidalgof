@@ -16,7 +16,7 @@
 	<tr>
 			<td>
         <a href="https://github.com/phidalgof">
-					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/phidalgof?cardType=level&theme=algolia" width="420" height="200">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/phidalgof?cardType=github&theme=algolia" width="420" height="200">
 				</a> 
 			</td>
 			<td>
