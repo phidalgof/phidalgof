@@ -8,7 +8,7 @@
   
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-phidalgof-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phidalgof/)
 
-- :seedling: Currently, I'm learning about Advanced Microsoft Technologies in software development: C#, Cloud Computing, Azure DevOps, Agile, Git
+- :seedling: Currently, I'm learning about Advanced Microsoft Technologies in software development: C#, Cloud Computing, Azure DevOps, Agile, UX/UI, Git
 
 ---
   
